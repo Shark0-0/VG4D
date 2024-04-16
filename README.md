@@ -55,6 +55,10 @@ If you think VG4D is useful for your research, please consider referring VG4D:
 
 ```
 
+## Acknowledgement
+
+This work is built upon the [PSTNet](https://github.com/hehefan/Point-Spatio-Temporal-Convolution), [ULIP](https://github.com/salesforce/ULIP), [XCLIP](https://github.com/microsoft/VideoX/tree/master/X-CLIP).
+
 ## License
 
 MIT 
