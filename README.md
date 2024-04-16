@@ -32,7 +32,7 @@ The code will be available soon.
 
 **VG4D Framework**
 
-![avatar](./assets/figs/figure.png)
+![avatar](./assets/figs/figure.jpg)
 
 ## News !!
 
