@@ -34,11 +34,9 @@ The code will be available soon.
 
 ![avatar](./assets/figs/figure.jpg)
 
-## News !!
+## News
 
-- Update Swin Large Config For Tube-Link VPS on VIP-Seg.
-
-- Code released!! 
+- The code will be available before the meeting 
 
 [[Paper]]() [[CODE]](https://github.com/Shark0-0/VG4D)
 
