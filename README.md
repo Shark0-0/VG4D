@@ -32,7 +32,7 @@ The code will be available soon.
 
 **VG4D Framework**
 
-![avatar](./assets/figs/teaser.png)
+![avatar](./assets/figs/figure.png)
 
 ## News !!
 
@@ -40,7 +40,7 @@ The code will be available soon.
 
 - Code released!! 
 
-[[Paper]](https://arxiv.org/abs/2303.12782) [[CODE]](https://github.com/lxtGH/Tube-Link)
+[[Paper]]() [[CODE]](https://github.com/Shark0-0/VG4D)
 
 
 
