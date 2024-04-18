@@ -12,7 +12,7 @@
     ·
     <a href=""><strong>Yunhai Tong</strong></a>
     <br />
-    <a href=""><strong>Shen Zhao</strong></a>
+    <a href=""><strong>Shen Zhao*</strong></a>
     .
     <a href="https://www.ece.pku.edu.cn/info/1046/2596.htm"><strong>Mengyuan Liu*</strong></a>
   </p>
