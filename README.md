@@ -35,7 +35,7 @@
 
 - The code will be available before the meeting 
 
-[[Paper]]() [[CODE]](https://github.com/Shark0-0/VG4D)
+[[Paper]](https://arxiv.org/abs/2404.11605) [[CODE]](https://github.com/Shark0-0/VG4D)
 
 
 
