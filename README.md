@@ -18,7 +18,7 @@
   </p>
 
   <p align="center">
-    <a href='https://arxiv.org/pdf/2303.12782'>
+    <a href='https://arxiv.org/pdf/2404.11605.pdf'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
     <a href='' style='padding-left: 0.5rem;'>
@@ -35,7 +35,7 @@
 
 - The code will be available before the meeting 
 
-[[Paper]](https://arxiv.org/abs/2404.11605) [[CODE]](https://github.com/Shark0-0/VG4D)
+[[Paper]](https://arxiv.org/pdf/2404.11605.pdf) [[CODE]](https://github.com/Shark0-0/VG4D)
 
 
 
